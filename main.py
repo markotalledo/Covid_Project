@@ -1,5 +1,6 @@
 # ANALISIS DE LOS FALLECIDOS POR COVID PERU
 
-Import pandas as pd
-Import numpy as np 
-Import matplotlib.pyplot as plt 
+import pandas as pd
+import numpy as np 
+import matplotlib.pyplot as plt 
+import seaborn as sns 
